@@ -5,8 +5,6 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fimages-wixmp-ed30a86b8c4ca887773594c2.wixmp.com%2Ff%2Fc83c004e-1370-4756-88e5-4071de797088%2Fdgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif%3Ftoken%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8&imgrefurl=https%3A%2F%2Fwww.deviantart.com%2Fpixeljeff%2Fart%2FCoding-990517671&docid=xhQBQFd9AIGRqM&tbnid=ROBV3o0qLOqx_M&vet=12ahUKEwjVjtb1hZOJAxWx2TgGHT0hNNgQM3oECBsQAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwjVjtb1hZOJAxWx2TgGHT0hNNgQM3oECBsQAA">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tunuics&label=Profile%20views&color=0e75b6&style=flat" alt="tunuics" /> </p>
 
 - 👨‍💻 All of my projects are available at [http://127.0.0.1:5500/portfolio.html/portfolio.html](http://127.0.0.1:5500/portfolio.html/portfolio.html)
