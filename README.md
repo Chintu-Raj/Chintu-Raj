@@ -1,4 +1,4 @@
-![logo](https://github.com/Tunuics/Chintu-Raj/blob/main/images.jpeg%20cse.jpeg)
+<img align="center" alt="logo" width="100%" src="https://github.com/Tunuics/Chintu-Raj/blob/main/images.jpeg%20cse.jpeg">
 
 <h1 align="center">Hi 👋, I'm Chintu Raj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
